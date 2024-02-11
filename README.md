@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aidan Koryeli</h1>
 <h3 align="center">I'm a software developer from Ukraine.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidkor" alt="aidkor" /></a> </p>
-
 - 🔭 I’m currently working on [A software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
 
 - 🌱 I’m currently learning **the military field, including technologies and related subjects, in order to enhance, modify, and upgrade military technology.**
