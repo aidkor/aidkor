@@ -5,15 +5,7 @@
 
 - 🌱 I’m currently learning **the military field, including technologies and related subjects, in order to enhance, modify, and upgrade military technology.**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
 - 📫 How to reach me **aidankoryeli@gmail.com**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
