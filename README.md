@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
 
-- 🌱 I’m currently learning **I am studying the military field, including technologies and related subjects, in order to enhance, modify, and upgrade military technology.**
+- 🌱 I’m currently learning **the military field, including technologies and related subjects, in order to enhance, modify, and upgrade military technology.**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
