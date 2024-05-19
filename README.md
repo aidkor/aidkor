@@ -10,7 +10,7 @@
   
 - 📚 I'm interested in studying various fields, but I'm currently conducting research in **the military domain**, focusing on technologies and related subjects to enhance, modify, and upgrade military technology.
   
-- 📡 How to reach me: &nbsp; **aidankoryeli@gmail.com** &nbsp; | &nbsp; **<a href="https://linkedin.com/in/denyskoren" target="blank">linkedin</a>** &nbsp; | &nbsp; **<a href="https://www.instagram.com/aidankoryeli/" target="_blank">instagram</a>**
+- 📡 How to reach me: &nbsp; aidankoryeli@gmail.com &nbsp; | &nbsp; <a href="https://linkedin.com/in/denyskoren" target="blank">linkedin</a> &nbsp; | &nbsp; <a href="https://www.instagram.com/aidankoryeli/" target="_blank">instagram</a>
 
 <!--
 <h3>Projects</h3>
@@ -42,3 +42,12 @@
 </p><br>
 
 <p>If you’d like to collaborate on a project or just want to say hi, feel free to reach out! 😊</p>
+
+=============================================
+<h2>Tools & Technologies</h2>
+<h4>Languages:</h4>
+
+| C | C++ | C# | Java | Python |
+|-|-|-|-|-|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>|
+
