@@ -1,18 +1,12 @@
-<h1>Hello, I'm Aidan Koryeli 👋</h1>
-
-<!-- INTRO SECTION -->
-<p>
-  Welcome to my GitHub profile! With a solid foundation in programming and a keen interest in emerging technologies, I'm always eager to learn and take on new challenges. 
-</p>
-<p>
-  Beyond programming, I'm deeply interested in the intersection of technology and society. I believe that technology has the power to transform lives and drive positive change when wielded responsibly. As such, I'm committed to staying informed about ethical considerations, diversity, and inclusion in tech, and advocating for a more equitable and accessible future.
+<p> 
+Welcome to my GitHub profile! With a solid foundation in programming and a keen interest in emerging technologies, I'm always eager to learn and take on new challenges. Beyond programming, I'm deeply interested in the intersection of technology and society. I believe that technology has the power to transform lives and drive positive change when wielded responsibly. As such, I'm committed to staying informed about ethical considerations, diversity, and inclusion in tech, and advocating for a more equitable and accessible future.
 </p>
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 - 🎯 I’m currently working on a [Software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
   
-- 📚 I'm interested in studying various fields, but I'm currently conducting research in **the military domain**, focusing on technologies and related subjects to enhance, modify, and upgrade military technology.
+- 📚 I'm interested in studying various fields, but I'm currently conducting research in **the military domain**, focusing on technologies and related subjects to enhance, modify, and upgrade military technology. 
   
 - 📡 How to reach me:<br><br>
 <a href="https://linkedin.com/in/denyskoren"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
