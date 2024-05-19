@@ -1,17 +1,12 @@
-<h1>Hello, I'm Aidan</h1>
+<h1>Hello, I'm Aidan Koryeli</h1>
 
-- 🔭 I’m currently working on [A software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
+- 🎯 I’m currently working on [A software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
 
-- 🌱 I’m currently learning **the military field, including technologies and related subjects, in order to enhance, modify, and upgrade military technology.**
+- 📚 I'm interested in studying **the military field, including technologies and related subjects, to enhance, modify, and upgrade military technology.**
 
-- 📫 How to reach me **aidankoryeli@gmail.com** **<a href="https://linkedin.com/in/denyskoren" target="blank">linkedin</a>**
+- 📡 How to reach me: &nbsp; **aidankoryeli@gmail.com** &nbsp; | &nbsp; **<a href="https://linkedin.com/in/denyskoren" target="blank">linkedin</a>** &nbsp; | &nbsp; **<a href="https://www.instagram.com/aidankoryeli/" target="blank">instagram</a>**
 
 <h1></h1>
-<h3 align="left">📡 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/denyskoren" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35" /></a>
-</p>
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />          
