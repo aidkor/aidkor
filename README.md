@@ -6,7 +6,7 @@
 
 <h3>About Me</h3>
 
-- 🎯 I’m currently working on [A software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
+- 🎯 I’m currently working on a [Software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
   
 - 📚 I'm interested in studying various fields, but I'm currently conducting research in **the military domain**, focusing on technologies and related subjects to enhance, modify, and upgrade military technology.
   
@@ -39,6 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40" />     
-</p><br><br>
+</p><br>
 
 <p>If you’d like to collaborate on a project or just want to say hi, feel free to reach out! 😊</p>
