@@ -4,7 +4,7 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 <h2>About Me</h2>
 
-- 🎯 I’m currently working on a [Software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS)
+<!-- - 🎯 I’m currently working on a [Software system for autonomous control of the drone during connection loss](https://github.com/aidkor/DACS) -->
   
 - 📚 I'm interested in studying various fields, but I'm currently conducting research in **the military domain**, focusing on technologies and related subjects to enhance, modify, and upgrade military technology. 
   
