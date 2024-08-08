@@ -4,7 +4,7 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 <h2>About Me</h2>
 
-- 📚 I'm interested in studying various fields, but at present, my primary focus is on mastering web development. I am deeply engaged in learning both front-end and back-end technologies, particularly interested in frameworks like React and Vue.js for crafting dynamic user interfaces. Additionally, I am eager to delve into server-side languages such as Node.js and Python with Django to build resilient backend systems.
+- 📚 Currently researching web technologies, particularly interested in frameworks like React and Vue.js for crafting dynamic user interfaces.
   
 - 🎓 Bachelor's degree in software engineering.
   
