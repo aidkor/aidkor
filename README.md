@@ -4,11 +4,11 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 <h2>About Me</h2>
 
--  📚   I'm interested in studying various fields, but at present, my primary focus is on mastering web development. I am deeply engaged in learning both front-end and back-end technologies, particularly interested in frameworks like React and Vue.js for crafting dynamic user interfaces. Additionally, I am eager to delve into server-side languages such as Node.js and Python with Django to build resilient backend systems.
+- 📚 I'm interested in studying various fields, but at present, my primary focus is on mastering web development. I am deeply engaged in learning both front-end and back-end technologies, particularly interested in frameworks like React and Vue.js for crafting dynamic user interfaces. Additionally, I am eager to delve into server-side languages such as Node.js and Python with Django to build resilient backend systems.
   
--  🎓   Bachelor's degree in software engineering.
+- 🎓 Bachelor's degree in software engineering.
   
--  📡   How to reach me:<br><br>
+- 🌐 How to reach me:<br><br>
 <a href="https://linkedin.com/in/denyskoren"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://t.me/aidkor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/aidankoryeli/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp; 
