@@ -31,8 +31,8 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 <h3>Languages:</h3>
 
-| Python | C++ | C# | Java | JavaScript |
-|----------|----------|----------|----------|----------|
+| Python | C++ | C# | Java |
+|----------|----------|----------|----------|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55"/>|
 
 <p>
