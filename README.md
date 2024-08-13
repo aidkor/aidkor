@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! With a solid foundation in programming and a keen interest in emerging technologies, I'm always eager to learn and take on new challenges. Beyond programming, I'm deeply interested in the intersection of technology and society. I believe that technology has the power to transform lives and drive positive change when wielded responsibly. As such, I'm committed to staying informed about ethical considerations, diversity, and inclusion in tech, and advocating for a more equitable and accessible future.
 </p>
 
-### About Me
+<h3>About Me</h3>
 
 - 📚 Currently researching web technologies, particularly interested in frameworks like React and Vue.js for crafting dynamic user interfaces.
   
@@ -20,16 +20,16 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 - [**Project X**](https://github.com/aidkor/ProjectX): Description of another key project you’ve worked on.
 - [**Project Y**](https://github.com/aidkor/ProjectY): Description of another key project you’ve worked on.
 
-### Achievements & Certifications
+<h3>Achievements & Certifications</h3>
 
 - 🏅 **Certification 1:** Description of certification.
 - 🏆 **Award 1:** Description of award or achievement.
 - 🥇 **Hackathon Winner:** Details about the hackathon and what you achieved.
 -->
 
-### Tools and Technologies
+<h3>Tools and Technologies</h3> 
 
-#### Languages:
+<h4>Languages:</h4>
 
 | Python | C++ | C# | Java |
 |----------|----------|----------|----------|
