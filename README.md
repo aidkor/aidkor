@@ -1,6 +1,5 @@
-<p> 
 Welcome to my GitHub profile! With a solid foundation in programming and a keen interest in emerging technologies, I'm always eager to learn and take on new challenges. Beyond programming, I'm deeply interested in the intersection of technology and society. I believe that technology has the power to transform lives and drive positive change when wielded responsibly. As such, I'm committed to staying informed about ethical considerations, diversity, and inclusion in tech, and advocating for a more equitable and accessible future.
-</p>
+
 
 ### About Me:
 
@@ -44,7 +43,5 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 | Git | Docker | Figma | Blender |
 |:-:|:-:|:-:|:-:|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="55" height="55" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50" />
-
-
 
 <br><p>If you’d like to collaborate on a project or just want to say hi, feel free to reach out! 😊</p>
