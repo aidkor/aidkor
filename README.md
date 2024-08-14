@@ -41,9 +41,10 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 #### Data Manipulation
 
-| SQL Server | MySQL | 
-|:-:|:-:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" />|
+| SQL Server | MySQL | SQLite |
+|:-:|:-:|:-:|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50"/>|
+          
 
 
 <br><p>If you’d like to collaborate on a project or just want to say hi, feel free to reach out! 😊</p>
