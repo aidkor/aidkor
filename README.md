@@ -2,7 +2,7 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 
 ## About Me
-- 📚 Currently researching web technologies, particularly interested in frameworks like React and Vue.js for crafting dynamic user interfaces.
+- 📚 Currently researching web technologies
   
 - 🎓 Bachelor's degree in software engineering.
   
