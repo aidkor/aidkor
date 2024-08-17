@@ -2,9 +2,7 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 
 
 ## About Me
-- 📚 Currently researching web technologies
-  
-- 🎓 Bachelor's degree in software engineering.
+ - 🎓 Bachelor's degree in software engineering.
   
 - 🌐 How to reach me:<br><br>
 <a href="https://linkedin.com/in/denyskoren"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
