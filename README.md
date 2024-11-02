@@ -7,7 +7,6 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 - 🌐 How to reach me:<br><br>
 <a href="https://linkedin.com/in/denyskoren"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://t.me/aidkor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
-<a href="https://www.instagram.com/aidankoryeli/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp; 
 
 <!--
 <h4>Projects</h4>
