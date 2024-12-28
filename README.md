@@ -1,5 +1,4 @@
-Welcome to my GitHub profile! With a solid foundation in programming and a keen interest in emerging technologies, I'm always eager to learn and take on new challenges. Beyond programming, I'm deeply interested in the intersection of technology and society. I believe that technology has the power to transform lives and drive positive change when wielded responsibly. As such, I'm committed to staying informed about ethical considerations, diversity, and inclusion in tech, and advocating for a more equitable and accessible future.
-
+Welcome to my GitHub! I’m passionate about programming, emerging technologies, and their impact on society. I aim to drive positive change through ethical, inclusive, and accessible tech solutions.
 
 ## About Me
  - 🎓 Bachelor's degree in software engineering.
@@ -21,23 +20,3 @@ Welcome to my GitHub profile! With a solid foundation in programming and a keen 
 - 🏆 **Award 1:** Description of award or achievement.
 - 🥇 **Hackathon Winner:** Details about the hackathon and what you achieved.
 -->
-
-## Tools and Technologies
-
-#### Languages
-
-| Python | C++ | C# | Java | JS |
-|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" />|
-
-#### Environments, Testing, Other
-
-| Git | Docker | Figma | Blender |
-|:-:|:-:|:-:|:-:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" height="60" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50" />
-
-#### Data Manipulation
-
-| SQL Server | MySQL | SQLite |
-|:-:|:-:|:-:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50"/>|
