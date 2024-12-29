@@ -1,4 +1,4 @@
-Welcome to my GitHub! I’m passionate about programming, emerging technologies, and their impact on society. I aim to drive positive change through ethical, inclusive, and accessible tech solutions.
+Welcome to my GitHub! The main focus is laying on developing inclusive and accessible solutions for societal impact.
 
 ## About Me
  - 🎓 Bachelor's degree in software engineering.
